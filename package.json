@@ -1,8 +1,8 @@
 {
   "name": "utilityLS",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "ローカルストレージのラッパーライブラリ",
-  "main": "utility-ls.js",
+  "main": "entry.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +11,5 @@
     "url": "https://github.com/taka-p/utilityLS"
   },
   "author": "takap",
-  "license": "ISC"
+  "license": "MIT"
 }
