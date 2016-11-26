@@ -1,5 +1,5 @@
 /**
- * entry.js
+ * index.js
  * import用の基点ファイル
  */
 
